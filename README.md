@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 [![My GitHub Stats](https://readme-stats.clckblog.space/api/?username=armelgeek&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://readme-stats.clckblog.space/api/top-langs/?username=armelgeek&langs_count=5&theme=tokyonight)]()
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/jtCodes/armelgeek/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/jtCodes/armelgeek/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/jtCodes/armelgeek/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/jtCodes/jtCodes/output/github-contribution-grid-snake.svg#gh-light-mode-only)

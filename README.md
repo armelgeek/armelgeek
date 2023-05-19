@@ -1,19 +1,21 @@
-<h1 align="center">Hi 👋, I'm Armel wanes</h1>
-<h3 align="center">A passionate frontend developer from Madagascar</h3>
+### Hi there 👋
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=armelgeek" alt="armelgeek" /></a> </p>
+<!--
+**armelgeek/armelgeek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-- 💬 Ask me about **react,node js ,symfony**
+Here are some ideas to get you started:
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/armel wanes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="armel wanes" height="30" width="40" /></a>
-<a href="https://fb.com/armel wanes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="armel wanes" height="30" width="40" /></a>
-</p>
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=armelgeek&show_icons=true&locale=en&layout=compact" alt="armelgeek" /></p>
+[![My GitHub Stats](https://readme-stats.clckblog.space/api/?username=armelgeek&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://readme-stats.clckblog.space/api/top-langs/?username=armelgeek&langs_count=5&theme=tokyonight)]()
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=armelgeek&show_icons=true&locale=en" alt="armelgeek" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=armelgeek&" alt="armelgeek" /></p>
-
+![github contribution grid snake animation](https://raw.githubusercontent.com/jtCodes/armelgeek/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/jtCodes/armelgeek/output/github-contribution-grid-snake.svg#gh-light-mode-only)
